@@ -3,3 +3,12 @@
 1. Ondemand
 2. interact mode
 3. Batch job.
+
+For more information : https://www.psc.edu/resources/bridges-2/user-guide-2/
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 1. OnDemand:
+
+
+
+
