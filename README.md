@@ -22,4 +22,9 @@ For more information : [Bridges-2 User Guide](https://www.psc.edu/resources/brid
   ### 4. Launch Jupyter notebook 
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Alt text](https://github.com/spatialdatasciencegroup/PCS-Bridge2-tutorial/blob/main/images/GPU_nodes.png?raw=true "GPU nodes")
+
+
 
