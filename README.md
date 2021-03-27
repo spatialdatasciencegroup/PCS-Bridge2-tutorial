@@ -1,2 +1,5 @@
 # PCS-usage-tutorial
-Tutorial of using PCS bridge 2 
+### In this tutorial, we will explain using three important High-performance computing resources provided by PCS such as:
+1. Ondemand
+2. interact mode
+3. Batch job.
