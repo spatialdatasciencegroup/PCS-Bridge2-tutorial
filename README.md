@@ -14,7 +14,7 @@ For more information : [Bridges-2 User Guide](https://www.psc.edu/resources/brid
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 1. OnDemand:
 - The OnDemand interface allows you to conduct your research on Bridges-2 through a web browser. You can manage files – create, edit and move them – submit and track jobs, see job output, check the status of the queues, run a Jupyter notebook through JupyterHub and more, without logging in to Bridges-2 via traditional interfaces.
-- For this tutorial, we will explain launch Jupyter notebook job, install dataset, add dataset etc.
+- For this tutorial, we will explain launch Jupyter notebook job, install packages, add dataset etc.
   ### 1. Create conda environmene
   ### 2. Install packages. 
   ### 3. Create cusmize Kernel
