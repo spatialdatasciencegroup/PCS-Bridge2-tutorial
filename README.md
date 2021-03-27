@@ -3,7 +3,7 @@
 1. Ondemand
 2. interact mode
 3. Batch job.
-For more information : [Bridges-2 User Guide](https://www.psc.edu/resources/bridges-2/user-guide-2/)
+- For more information : [Bridges-2 User Guide](https://www.psc.edu/resources/bridges-2/user-guide-2/)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Create account in the bridge:
   1. Create an account in bridge xsede using your UA email
