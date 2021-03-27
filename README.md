@@ -5,7 +5,7 @@
 3. Batch job.
 For more information : [Bridges-2 User Guide](https://www.psc.edu/resources/bridges-2/user-guide-2/)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-## First: Create account in the bridge:
+## Create account in the bridge:
   1. Create an account in bridge xsede using your UA email
 		[Signup](https://portal.xsede.org/my-xsede#/guest)
   2. Email Dr.Jiang your username to add you to our lab project
