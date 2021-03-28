@@ -21,7 +21,7 @@
   ### 3. Add dataset
   ### 4. Launch Jupyter notebook 
 
-# TBD
+# in progress
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Alt text](https://github.com/spatialdatasciencegroup/PCS-Bridge2-tutorial/blob/main/images/GPU_nodes.png?raw=true "GPU nodes")
