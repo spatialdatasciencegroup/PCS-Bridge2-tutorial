@@ -15,13 +15,14 @@
 ## 1. OnDemand:
 - The OnDemand interface allows you to conduct your research on Bridges-2 through a web browser. You can manage files – create, edit and move them – submit and track jobs, see job output, check the status of the queues, run a Jupyter notebook through JupyterHub and more, without logging in to Bridges-2 via traditional interfaces.
 - For this tutorial, we will explain launch Jupyter notebook job, install packages, add dataset etc.
-  ### 1. Create conda environmene
-  ### 2. Install packages. 
-  ### 3. Create cusmize Kernel
-  ### 3. Add dataset
-  ### 4. Launch Jupyter notebook 
+  ### 1. Signin using terminal
+  ### 2. Create conda environmene
+  ### 3. Install packages. 
+  ### 4. Create cusmize Kernel
+  ### 5. Add dataset
+  ### 6. Launch Jupyter notebook 
 
-# in progress
+### in progress
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Alt text](https://github.com/spatialdatasciencegroup/PCS-Bridge2-tutorial/blob/main/images/GPU_nodes.png?raw=true "GPU nodes")
