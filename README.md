@@ -19,7 +19,7 @@ For this tutorial, we will explain launching the Jupyter notebook job, installin
   ### 1. Create conda environment
   1. First activate conda in the bridge using:
   - `module load anaconda3/2020.11`
-  2. Create conda environment using the clone provide with the sever:
+  2. Create conda environment using the clone $AI_ENV provided with the sever:
   - `conda create --name tf2 $AI_ENV`
   3. activate the environment:
   - `source activate tf2`
