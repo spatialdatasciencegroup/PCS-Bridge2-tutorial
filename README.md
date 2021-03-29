@@ -24,7 +24,7 @@
   3. activate the environment:
   - `source activate tf2`
   ### 2. Create customize Kernel:
-  1. We need to create a Kernnel to store the download packages and use it in the notebook
+  1. We need to create a Kernel to store the download packages and use it in the notebook
   - `python -m ipykernel install --user --name tf2 --display-name "Python tf"`
   ### 3. Install packages. 
   1. we can install packages useing either pip or conda command
