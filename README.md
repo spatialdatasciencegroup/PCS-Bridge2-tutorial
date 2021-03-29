@@ -1,5 +1,5 @@
 # PCS-usage-tutorial
-### In this tutorial, we will explain using three important High-performance computing resources provided by PCS such as:
+### In this tutorial, we will explain three important High-performance computing resources provided by PCS such as:
 1. Ondemand
 2. interact mode
 3. Batch job.
@@ -10,7 +10,7 @@
 		[Signup](https://portal.xsede.org/my-xsede#/guest)
   2. Email Dr.Jiang your username to add you to our lab project
   3. Wait two business day until your account activated  
-## Signin using terminal:
+## Login to your acount using the terminal:
 - `ssh username@bridges2.psc.edu`
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 1. OnDemand:
